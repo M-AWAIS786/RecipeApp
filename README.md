@@ -10,6 +10,15 @@ Responsive UI: The app is designed to work on different screen sizes.
 Screenshots
 (Include screenshots here of different sections like Categories, Recipe Details, Favorites, and Filters)
 
+![dashboard_1](https://github.com/user-attachments/assets/d8d885db-8d80-412b-8bd1-fc5a3252585b)
+![categories1](https://github.com/user-attachments/assets/07b5dab1-2da2-4971-82ce-7783ef1782d3)
+![categories1](https://github.com/user-attachments/assets/07b5dab1-2da2-4971-82ce-7783ef1782d3)
+![category_details](https://github.com/user-attachments/assets/d737f130-2f26-4c7b-9cf1-48214c3cf2a3)
+![favourite1](https://github.com/user-attachments/assets/c7be516f-841e-4820-817b-a1856606afe8)
+
+
+
+
 Getting Started
 Prerequisites
 Make sure you have the following tools installed:
